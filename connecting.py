@@ -1,1 +1,1 @@
-print('Hello world \n' * 10)
+print('Hello world - we are connected \n' * 10)
